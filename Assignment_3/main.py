@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 11 15:28:48 2024
-
-@author: Sharvari
-"""
-
 from read_matrix import ReadWriteMatrix
 from read_matrix import ReadWriteMatrix
 from multiply_matrix import MultiplyMatrices

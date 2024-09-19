@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 11 15:25:33 2024
-
-@author: Zainab rajabali
-"""
-
 class ReadWriteMatrix:
     #function to read matrix
     def read_matrix(filename):

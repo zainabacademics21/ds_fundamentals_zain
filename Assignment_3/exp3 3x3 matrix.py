@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 11 14:02:58 2024
-
-@author: Sharvari
-"""
-
 #function to read matrix
 def read_matrix(filename):
     matrix = []

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 11 15:26:18 2024
-
-@author: Sharvari
-"""
-
 class MultiplyMatrices:
     def multiply_matrices(matrix1, matrix2):
         result = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]  #initialize 3x3 matrix
