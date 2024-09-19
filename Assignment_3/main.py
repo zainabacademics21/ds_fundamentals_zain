@@ -2,11 +2,6 @@ from read_matrix import ReadWriteMatrix
 from read_matrix import ReadWriteMatrix
 from multiply_matrix import MultiplyMatrices
 
-# Paths for the input and output files
-#input_file1 = 'C:/Users/Sharvari/Desktop/AI/DS Lab/ex3/matrix1.csv'
-#input_file2 = 'C:/Users/Sharvari/Desktop/AI/DS Lab/ex3/matrix2.csv'
-#output_file = 'C:/Users/Sharvari/Desktop/AI/DS Lab/ex3/result_matrix.csv'
-
 matrix1 = ReadWriteMatrix.read_matrix("matrix1.csv")
 matrix2 = ReadWriteMatrix.read_matrix("matrix2.csv") 
 
