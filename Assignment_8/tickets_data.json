@@ -1,0 +1,102 @@
+[
+    {
+        "ticket_id": "1",
+        "passenger_name": "Aaron Singh",
+        "visa_stamped_location": [
+          "beijing",
+          "newyork"
+        ],
+        "destination": "India",
+        "ticket_price": "1200"
+      },
+  {
+    "ticket_id": "2",
+    "passenger_name": "Emily Chen",
+    "visa_stamped_location": [
+      "beijing",
+      "newyork"
+    ],
+    "destination": "India",
+    "ticket_price": "1200"
+  },
+  {
+    "ticket_id": "3",
+    "passenger_name": "Raj Patel",
+    "visa_stamped_location": [
+      "dallas",
+      "colombo"
+    ],
+    "destination": "India",
+    "ticket_price": "900"
+  },
+  {
+    "ticket_id": "4",
+    "passenger_name": "Maria Garcia",
+    "visa_stamped_location": [
+      "newyork",
+      "hongkong"
+    ],
+    "destination": "India",
+    "ticket_price": "1700"
+  },
+  {
+    "ticket_id": "5",
+    "passenger_name": "John Doe",
+    "visa_stamped_location": [
+      "kandy",
+      "wuhan"
+    ],
+    "destination": "India",
+    "ticket_price": "1100"
+  },
+  {
+    "ticket_id": "6",
+    "passenger_name": "Lisa Wong",
+    "visa_stamped_location": [
+      "chicago",
+      "dallas"
+    ],
+    "destination": "India",
+    "ticket_price": "1300"
+  },
+  {
+    "ticket_id": "7",
+    "passenger_name": "Mohammed Khan",
+    "visa_stamped_location": [
+      "newyork",
+      "beijing"
+    ],
+    "destination": "India",
+    "ticket_price": "1600"
+  },
+  {
+    "ticket_id": "8",
+    "passenger_name": "Sofia Lopez",
+    "visa_stamped_location": [
+      "colombo",
+      "hongkong"
+    ],
+    "destination": "India",
+    "ticket_price": "1400"
+  },
+  {
+    "ticket_id": "9",
+    "passenger_name": "Liam Johnson",
+    "visa_stamped_location": [
+      "kandy",
+      "chicago"
+    ],
+    "destination": "India",
+    "ticket_price": "1550"
+  },
+  {
+    "ticket_id": "10",
+    "passenger_name": "Isabella Brown",
+    "visa_stamped_location": [
+      "wuhan",
+      "dallas"
+    ],
+    "destination": "India",
+    "ticket_price": "1800"
+  }
+]
